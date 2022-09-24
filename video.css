@@ -1,0 +1,83 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: #030303;
+    color: white;
+    font-family: Arial Sans-Serif;
+    text-align: top;
+    padding: 20px;
+    margin: 0px;
+}
+div.video {
+        
+        margin: -20px -20px 30px -20px;
+        padding:0px 20px 30px -50px;
+        position: relative;
+        padding-bottom: 70%;
+        background-color: #030303;
+        
+    
+    }
+    
+    div.video > iframe {
+        position: absolute;
+        top: 5%;
+        left: 5%;
+        width: 90%;
+        height: 90%;
+        margin: 0px;
+        padding: 0px;
+    }
+    main {
+        
+    }
+    p {
+        font-family: arial;
+        color: grey;
+        text-align: left;
+    }
+    img {
+        height: 20px;
+        color: white;
+        padding: 40px;
+        
+        
+    }
+    h2 {
+        color: black;
+        text-align: left;
+    }
+    .m {
+        padding: 20px 35px 0px;
+        height: 25px;
+    }
+    p {
+        padding: 0px 30px 0px;
+    }
+    .chanel {
+    padding-inline: 10px;
+    text-align: center;
+    color: darkred;
+     
+     
+    }
+    .an {
+        height: 100px;
+        margin: 0px;
+        padding: 0px;
+    
+    }
+    .f {
+        padding: 0px;
+        text-align: center;
+        font-size: 20px;
+    }
